@@ -1,4 +1,4 @@
-#Vrouw verhaal met vogelachtig beest 
+# Vrouw verhaal met vogelachtig beest 
 
 _Auteur: Szymon Dziedzic & ChatGPT_
 
